@@ -18,5 +18,5 @@ function leastFavoriteCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  return leastFavoriteCustomer
+  let leastFavoriteCustomer = "Joe"
 }
